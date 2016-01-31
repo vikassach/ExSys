@@ -1,0 +1,35 @@
+compile
+test
+`
+test
+test-only cs.MarketSyncTest
+compile
+test-only cs.MarketSyncTest
+test
+compile
+idea
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+test-only cs.ExchangeSyncTest
+compile
+test
+compile
+test
+test-only cs.ExchangeTestSuite
+compile
+test

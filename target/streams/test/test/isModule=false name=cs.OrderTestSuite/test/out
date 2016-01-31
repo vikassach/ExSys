@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mOrderTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Order equals compares all fields[0m[0m
+[0m[[0minfo[0m] [0m[32m- Order equals compares all fields : Negative[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders match if they have opposing directions, matching RICs and quantities, and if the sell price is less than or equal to the buy price[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders match when seller is selling at a price lesser than buyer is willing to pay[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders don't match when selling price > than buyer is willing to pay[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders don't match when they are in same direction[0m[0m
+[0m[[0minfo[0m] [0m[32m- Order.isBuy returns true for Buy trade and false for Sell trade[0m[0m

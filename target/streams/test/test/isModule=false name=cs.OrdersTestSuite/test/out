@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mOrdersTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders maintains buy orders with descending price and ascending timestamp[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders maintains sell orders with ascending price and ascending timestamp[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders adds an order to its list of trades only if matching order is not found[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders is able to calculate open interest for Buy orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders is able to calculate open interest for Sell orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders can calculate average execution price[0m[0m
+[0m[[0minfo[0m] [0m[32m- Orders can calculate executed quantity for specific user[0m[0m

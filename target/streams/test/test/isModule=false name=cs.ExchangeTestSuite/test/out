@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mExchangeTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange is able to process orders and calculate open interest[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange can calculate average execution price[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange can calculate executed quantity for specific user[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange is able to process 100000 orders and calculate open interest[0m[0m

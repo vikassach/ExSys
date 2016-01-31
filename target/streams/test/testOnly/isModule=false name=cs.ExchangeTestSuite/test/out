@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0m[32mExchangeTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- Exchange is able to process orders and calculate open interest *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 did not equal 3900 Actual 1: 0 : Expected : 3900 (ExchangeTestSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m- Exchange can calculate average execution price *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.util.NoSuchElementException: None.get[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.None$.get(Option.scala:347)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.None$.get(Option.scala:345)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at cs.ExchangeTestSuite$$anonfun$2.apply$mcV$sp(ExchangeTestSuite.scala:30)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at cs.ExchangeTestSuite$$anonfun$2.apply(ExchangeTestSuite.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at cs.ExchangeTestSuite$$anonfun$2.apply(ExchangeTestSuite.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Exchange can calculate executed quantity for specific user *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 did not equal 900 Actual : 0 : Expected : 900 (ExchangeTestSuite.scala:39)[0m[0m
+[0m[[0minfo[0m] [0m[31m- Exchange is able to process 100000 orders and calculate open interest *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 did not equal 100000000 Actual : 0 : Expected : 100000000 (ExchangeTestSuite.scala:46)[0m[0m

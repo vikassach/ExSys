@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mExchangeSyncTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange is able to handle 100 parallel processes[0m[0m
+[0m[[0minfo[0m] [0m[31m- Exchange is able to handle 100 parallel processes for multiple RICs *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  746 did not equal -254 Actual : 746 : Expected : -254 (ExchangeSyncTest.scala:76)[0m[0m

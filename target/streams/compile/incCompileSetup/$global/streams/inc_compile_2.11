@@ -1,0 +1,371 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Exchange$.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Exchange.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$1.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$2.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$3.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$4.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$5.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$6.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$7.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$8.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$9.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$avgExecPrice$1.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$openInterest$1.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$openInterest$2.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/TradeExec.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Buy$.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Buy.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BuyTrd$.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BuyTrd.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Dir.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Order.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Sell$.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Sell.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/SellTrd$.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/SellTrd.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/TrdDir.class
+binary dependencies:
+8 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Users/vsa06/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/AskComparator.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BidComparator.class
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> /Users/vsa06/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> /Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> cs.Exchange
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> cs.Exchange$
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$1
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$2
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$3
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$4
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$5
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$6
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$7
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$8
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$9
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$avgExecPrice$1
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$openInterest$1
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.Market$$anonfun$openInterest$2
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs.TradeExec
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Buy
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Buy$
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.BuyTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.BuyTrd$
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Dir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Order
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Sell
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.Sell$
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.SellTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.SellTrd$
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs.TrdDir
+used names:
+165 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> +
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> <init>
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> ==
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> AnyRef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> BigDecimal
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> ConcurrentHashMap
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Exchange
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Int
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> JavaConversions
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Long
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Market
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> None
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Option
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Order
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Predef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> String
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> TrdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> Unit
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> apply
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> asInstanceOf
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> avgExecPrice
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> collection
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> concurrent
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> cs
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> executedQty
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> executedTrades
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> getMarket
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> getOrDefault
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> isInstanceOf
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> java
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> mapAsScalaConcurrentMap
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> market
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> newOrder
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> openInterest
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> package
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> println
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> process
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> putIfAbsent
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> ric
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> ricMarketMap
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> scala
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> synchronized
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> trdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> user
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> util
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> x
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> +
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> ++
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> +=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> -
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> /
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> <init>
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> AnyRef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> AskComparator
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> BidComparator
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> BigDecimal
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> BigDecimalIsFractional
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Buy
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> JavaConversions
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> List
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> ListBuffer
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Long
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> LongIsIntegral
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Market
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Numeric
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Order
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> Predef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> PriorityBlockingQueue
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> String
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> TradeExec
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> TrdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> _1
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> _2
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> add
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> asks
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> bids
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> canBuildFrom
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> collection
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> collectionAsScalaIterable
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> concurrent
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> cs
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> dir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> equals
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> executeTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> filter
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> find
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> foldLeft
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> get
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> immutable
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> int2bigDecimal
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> isBuy
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> isDefined
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> java
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> map
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> matchTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> matchingOrder
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> math
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> mutable
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> ne
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> newOrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> newOrder
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> oldOrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> openInterest
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> oppTrds
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> order
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> package
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> price
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> qty
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> remove
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> scala
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> size
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> sum
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> sumOfBuyOrders
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> sumOfSellOrders
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> synchronized
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> toList
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> trades
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> trdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> trds
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> unary_!
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> unchecked
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> user
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> usersOrder
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> util
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> x
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> &&
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> +
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> <=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> <init>
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> >=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Any
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> AnyRef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> BigDecimal
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Buy
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> BuyTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Dir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Long
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Order
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Predef
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Product
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> ScalaRunTime
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Sell
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> SellTrd
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> Serializable
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> String
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> TrdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> asInstanceOf
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> cs
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> dir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> equals
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> isInstanceOf
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> o
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> oppDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> package
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> price
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> qty
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> ric
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> runtime
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> scala
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> timeStamp
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> toString
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> trdDir
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> typedProductIterator
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> user
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> ||
+product stamps:
+27 items
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Buy$.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Buy.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BuyTrd$.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BuyTrd.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Dir.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Exchange$.class -> lastModified(1446065725000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Exchange.class -> lastModified(1446065725000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$1.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$2.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$3.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$4.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$5.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$6.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$7.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$8.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$9.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$avgExecPrice$1.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$openInterest$1.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market$$anonfun$openInterest$2.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Market.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Order.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Sell$.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/Sell.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/SellTrd$.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/SellTrd.class -> lastModified(1446051868000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/TradeExec.class -> lastModified(1446065094000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/TrdDir.class -> lastModified(1446051868000)
+source stamps:
+5 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/AskComparator.java -> hash(87cb5821ca314d7fffcfe6dcf71e5ddc8ed4610e)
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/BidComparator.java -> hash(78ad4598621165263eff85575282dba897b10eb2)
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> hash(57ec5d53afc3492841f1696132ba4fca7ca80ffc)
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> hash(986e124cb1f2b25b80c29544e06675af8a020a09)
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> hash(198d8635d4cee553d50fef6661e30d5f16b5380c)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/vsa06/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1425336975000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/AskComparator.class -> lastModified(1446051869000)
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BidComparator.class -> lastModified(1446051869000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/vsa06/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Int
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/AskComparator.class -> cs.AskComparator
+/Users/vsa06/workspaces/dev/ExSys/target/scala-2.11/classes/cs/BidComparator.class -> cs.BidComparator
+internal apis:
+5 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/AskComparator.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK9oaWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUh8tYIcoxTX//z+bc9x5d3I7UYQ4=
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/BidComparator.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK9oaWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUeK1FmGIRZSY+/4VXUoLbqJexDrI=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAaC6UXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHc7FCt0AAZub3RpZnlzcQB+AAzuqxXhdAAEd2FpdHNxAH4ADN8VCCl0AA0kYXNJbnN0YW5jZU9mc3EAfgAM76Fo2nQABmVxdWFsc3NxAH4ADAA7AMF0AAdwcm9jZXNzc3EAfgAMwQcoDHQADGFzSW5zdGFuY2VPZnNxAH4ADPmW1f90AAxzeW5jaHJvbml6ZWRzcQB+AAwOCdKvdAAJYWRkTWFya2V0c3EAfgAMo46YmHQADmV4ZWN1dGVkVHJhZGVzc3EAfgAMSYDU5XQADSRpc0luc3RhbmNlT2ZzcQB+AAyVzrpGdAALZXhlY3V0ZWRRdHlzcQB+AAwFy0rsdAAIRXhjaGFuZ2VzcQB+AAxfr3ZPdAAJZ2V0TWFya2V0c3EAfgAMO+eUsnQADGF2Z0V4ZWNQcmljZXNxAH4ADHIIZOh0AAlub3RpZnlBbGxzcQB+AAxMjTz2dAAMcmljTWFya2V0TWFwc3EAfgAMz619KHQADGlzSW5zdGFuY2VPZnNxAH4ADGiLyd50AAxvcGVuSW50ZXJlc3RzcQB+AAz8XkxWdAACPT1zcQB+AAy1mXKgdAAFY2xvbmVzcQB+AAyUliMWdAAIdG9TdHJpbmdzcQB+AAz2gzimdAACIT1zcQB+AAx/onljdAAIZ2V0Q2xhc3NzcQB+AAys7AoAdAACbmVzcQB+AAywTDTgdAACZXFzcQB+AAzXBvULdAACIyNzcQB+AAw+5//YdAAIZmluYWxpemVzcQB+AAxu1ZFOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALY3MuRXhjaGFuZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbnNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAACY3NzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVCwO9+8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUV+xdU6/DSShB8WlhMrpPynyoD/w=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCZA71RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cL3d5+10AAZub3RpZnlzcQB+AAzvvAr6dAAEd2FpdHNxAH4ADBUpx6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmzsdF3QABm5ld09yZHNxAH4ADGAxObx0AApleGVjdXRlVHJkc3EAfgAMImQMCHQABmVxdWFsc3NxAH4ADODSnxt0AAdwcm9jZXNzc3EAfgAMPZ4N7HQADGFzSW5zdGFuY2VPZnNxAH4ADBBDYhR0AAlUcmFkZUV4ZWNzcQB+AAxW+Xo5dAAMc3luY2hyb25pemVkc3EAfgAMeMEChnQADmV4ZWN1dGVkVHJhZGVzc3EAfgAMx8IutHQADSRpc0luc3RhbmNlT2ZzcQB+AAxgtcqPdAAEYmlkc3NxAH4ADKeu0Ch0AAtleGVjdXRlZFF0eXNxAH4ADK10/K90AAxhdmdFeGVjUHJpY2VzcQB+AAy273pDdAAJbm90aWZ5QWxsc3EAfgAMu0PNanQABk1hcmtldHNxAH4ADK+s2Ml0AAxpc0luc3RhbmNlT2ZzcQB+AAwNpxLxdAAGPGluaXQ+c3EAfgAMK/VlF3QADG9wZW5JbnRlcmVzdHNxAH4ADCxwczR0AAZ0cmFkZXNzcQB+AAwk40H+dAACPT1zcQB+AAytSthtdAAFY2xvbmVzcQB+AAyNpVvidAAIdG9TdHJpbmdzcQB+AAwbxSUidAAGb2xkT3Jkc3EAfgAMvUlZeXQAAiE9c3EAfgAMpjcLN3QACGdldENsYXNzc3EAfgAM1V4BMHQAAm5lc3EAfgAM/iaI1HQAAmVxc3EAfgAM3nQFLnQABGFza3NzcQB+AAwM/H6bdAACIyNzcQB+AAzH48bvdAAIZmluYWxpemVzcQB+AAwfXASHdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAIdAAMY3MuVHJhZGVFeGVjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AeHNxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJFzcQB+AIR0AANBbnlzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQdAAFc2NhbGFxAH4Al3Bwc3EAfgBWcQB+AGN1cQB+AGQAAAAAc3EAfgBmAHQACWNzLk1hcmtldHVxAH4AaQAAAABxAH4AbXVxAH4AbwAAAABzcQB+AHEBcQB+AHlwc3EAfgBxAXNxAH4Ae3NxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cQB+AIIAAAACc3EAfgCEcQB+AIdzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+AJNzcQB+AJBxAH4AlXEAfgCXc3EAfgCEcQB+AJlzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQcQB+AJ5xAH4Al3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAACY3NzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVCwMjwkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmG4STLHysluAwpVE4GZ1r4oCCgk=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAoM/vTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJUYf4Z0AAZub3RpZnlzcQB+AAwAFRFIdAAHU2VsbFRyZHNxAH4ADB0ygwx0AAR3YWl0c3EAfgAMG73zXXQADSRhc0luc3RhbmNlT2ZzcQB+AAx+uUPldAAFaXNCdXlzcQB+AAysaOvidAADRGlyc3EAfgAMbk6M73QAA3JpY3NxAH4ADNqsVVd0AAxwcm9kdWN0QXJpdHlzcQB+AAy/f5A5dAAGZXF1YWxzc3EAfgAMDpHUIHQADGFzSW5zdGFuY2VPZnNxAH4ADE+LhaN0AAVwcmljZXNxAH4ADJ9g0+p0AAxzeW5jaHJvbml6ZWRzcQB+AAwLBcGAdAANJGlzSW5zdGFuY2VPZnNxAH4ADMBSXvp0AAZvcHBEaXJzcQB+AAyx2XhRdAAIY2FuRXF1YWxzcQB+AAx8jlgqdAAJdGltZVN0YW1wc3EAfgAMaB0x6nQADXByb2R1Y3RQcmVmaXhzcQB+AAyzdVPSdAAJbm90aWZ5QWxsc3EAfgAMJbH6m3QAC3JlYWRSZXNvbHZlc3EAfgAM9UZj1HQAA0J1eXNxAH4ADBDKlqt0AAxpc0luc3RhbmNlT2ZzcQB+AAwvfzQddAAIbWF0Y2hUcmRzcQB+AAy5m62KdAADZGlyc3EAfgAMg6bqIHQABjxpbml0PnNxAH4ADDoZ1Ed0AAI9PXNxAH4ADA6nOKl0AAVjbG9uZXNxAH4ADA45mp50AANxdHlzcQB+AAzKZceLdAAIdG9TdHJpbmdzcQB+AAzC0fkUdAACIT1zcQB+AAyrXyW/dAAGVHJkRGlyc3EAfgAM0x+xvHQABU9yZGVyc3EAfgAMObMMbnQACGdldENsYXNzc3EAfgAM6u4XoHQABnRyZERpcnNxAH4ADCm9GIl0AAJuZXNxAH4ADLCs9990AAR1c2Vyc3EAfgAMQc/OeXQABkJ1eVRyZHNxAH4ADHgPwgR0AAJlcXNxAH4ADCXPaYZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy6etNkdAACIyNzcQB+AAx4s0FvdAAEU2VsbHNxAH4ADAINPvl0AAhmaW5hbGl6ZXNxAH4ADMZovLJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDNP0Gt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0AAZjcy5EaXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AhQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCMc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgA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+AJhxAH4A0nEAfgE7c3EAfgCYdAAGRXF1YWxzcQB+ATtzcQB+AJh0AAZUcmREaXJzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAACY3NxAH4Aq3NxAH4AmHEAfgCbc3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHEAfgCnc3EAfgCkcQB+AKlxAH4Aq3NxAH4AmHEAfgCtcQB+ATtwcHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0AApjcy5TZWxsVHJkdXEAfgB9AAAAAHEAfgC4dXEAfgCDAAAAAHNxAH4AhQFxAH4AjXBzcQB+AIUBc3EAfgCPc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AlgAAAAdzcQB+AJhxAH4AxXNxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKRxAH4AsnEAfgCrc3EAfgCYcQB+AMVzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKR0AAJpb3EAfgCrc3EAfgCYcQB+ANJxAH4BZ3NxAH4AmHQABkVxdWFsc3EAfgFnc3EAfgCYdAAGVHJkRGlyc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHQAAmNzcQB+AKtzcQB+AJhxAH4Am3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHEAfgCpcQB+AKtzcQB+AJhxAH4ArXEAfgFncHBzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAdAAIY3MuT3JkZXJ1cQB+AH0AAAAAcQB+ARR1cQB+AIMAAAAAc3EAfgCFAXEAfgCNcHNxAH4AhQFzcQB+AI9zcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgCWAAAAAnNxAH4AmHEAfgCbc3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHEAfgCnc3EAfgCkcQB+AKlxAH4Aq3NxAH4AmHEAfgCtc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHEAfgCycQB+AKtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmNzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQr2hpZnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADsvVXNlcnMvdnNhMDYvd29ya3NwYWNlcy9kZXYvRXhTeXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBmNhjXUzuVT1Q/vZmHjDV8WtTgM
+external apis:
+0 items
+source infos:
+5 items
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/AskComparator.java -> 
+AAAAAAAAAAA=
+/Users/vsa06/workspaces/dev/ExSys/src/main/java/cs/BidComparator.java -> 
+AAAAAAAAAAA=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Exchange.scala -> 
+AAAAAAAAAAA=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Market.scala -> 
+AAAAAAAAAAA=
+/Users/vsa06/workspaces/dev/ExSys/src/main/scala/cs/Order.scala -> 
+AAAAAAAAAAA=
+compilations:
+21 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4eiVqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEQ6XGRldlx3a3NwXHNjamF2XENyU3Vfc2J0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4elKRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEQ6XGRldlx3a3NwXHNjamF2XENyU3Vfc2J0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4eszZh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEQ6XGRldlx3a3NwXHNjamF2XENyU3Vfc2J0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4fGQnZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEQ6XGRldlx3a3NwXHNjamF2XENyU3Vfc2J0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKkQY+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKosnvJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKourHd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKo0A1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKo6B2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKp/Bgl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK1OJ+B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK15ie91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK9oaWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK+k2GB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK/Bcv91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK/Bd0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABULAoRNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABULApbp91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABULApcOB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABULAyPCR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABULA737x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy92c2EwNi93b3Jrc3BhY2VzL2Rldi9FeFN5cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

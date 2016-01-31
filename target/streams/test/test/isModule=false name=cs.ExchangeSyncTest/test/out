@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mExchangeSyncTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange is able to handle 100 parallel processes[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exchange is able to handle 100 parallel processes for multiple RICs[0m[0m
