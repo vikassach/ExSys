@@ -1,7 +1,7 @@
-Solution Description
+Project Description
 ====================
-This solution implements an exchange system which matches orders on stocks.
-It is implemented in scala but java's concurrent api.
+This project implements an exchange system which matches orders on stocks.
+It is implemented in scala and uses java's concurrent api.
 It has following main components:
 
 
